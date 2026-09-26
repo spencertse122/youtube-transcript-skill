@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Transcript"
+  short_description: "Extract and analyze YouTube captions"
+  default_prompt: "Extract the transcript from this YouTube video and answer my question using it."
